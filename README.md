@@ -8,12 +8,12 @@ This is a Web-App made in React which can detect faces.
 4. Run `npm install` or `npm i`
 5. Run `npm start`
 
-You can grab your Clarifai API key [here](https://www.clarifai.com/)
+You can grab your Clarifai API key :key: [here](https://www.clarifai.com/)
 
-# Preview
+# Preview :tv:
 
 ![WebPage](./src/components/React-App.png)
 
-# Requirments
+# Requirments :pencil:
 
 1. Download node.js from [here](https://nodejs.org/en/download/)
